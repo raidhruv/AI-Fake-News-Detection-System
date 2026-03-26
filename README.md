@@ -1,4 +1,4 @@
-# AI Fake News Detection System 📰🤖
+# AI Fake News Detection System 
 
 ## Overview
 
@@ -8,11 +8,11 @@ An NLP-based system that detects fake news using **BERT (Bidirectional Encoder R
 
 ## Features
 
-* 🧠 BERT-based text classification
-* 📄 News article analysis using NLP
-* ⚡ Real vs fake prediction
-* 🔍 Content-driven detection
-* 🖥️ Simple interface for testing
+* BERT-based text classification
+* News article analysis using NLP
+* Real vs fake prediction
+* Content-driven detection
+* Simple interface for testing
 
 ---
 
