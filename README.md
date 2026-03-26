@@ -2,7 +2,7 @@ The AI Fake News Detection and News Aggregator is a web-based intelligent system
 
 This project combines news aggregation, AI-based fake news detection, and confidence scoring into a single platform, making it useful for students, researchers, journalists, and the general public.
 
-🎯 Objectives
+Objectives
 
 To detect fake news using Natural Language Processing (NLP) and Deep Learning models
 
@@ -14,7 +14,7 @@ To compare predictions from different models (Admin view)
 
 To build an easy-to-use Flask-based web interface
 
-🚀 Key Features
+Key Features
 
 🔍 Fake News Detection (Real / Fake classification)
 
