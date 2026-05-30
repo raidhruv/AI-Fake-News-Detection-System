@@ -41,7 +41,7 @@ News Text → Tokenization → BERT → Classification (Real/Fake)
 ## Credits
 
 This project was developed as a collaborative effort.
-Original implementation by **Divya Gupta**.
+initial implementation by **Divya Gupta**.
 This version includes contributions and modifications by **Dhruv Rai**.
 
 ---
